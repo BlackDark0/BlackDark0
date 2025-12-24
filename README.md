@@ -4,8 +4,8 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<h1 align="center"> <img src="https://github.com/BlackDark0/Assets/blob/main/gifs/wave.gif" width="60px"/> Hi , I'm <img src="https://github.com/BlackDark0/Assets/blob/main/gifs/wave.gif" width="60px"/>
-<div> <img src="https://github.com/BlackDark0/Assets/blob/main/gifs/cool.gif" width="30"/> B14ck <img src="https://github.com/BlackDark0/Assets/blob/main/gifs/cool.gif" width="30"/> </div>
+<h1 align="center"> <img src="https://github.com/BlackDark0/Assets/blob/main/gifs/wave.gif" width="60px"/> Hi <img src="https://github.com/BlackDark0/Assets/blob/main/gifs/wave.gif" width="60px"/>
+<div> <img src="https://github.com/BlackDark0/Assets/blob/main/gifs/cool.gif" width="30"/> I'm B14ck <img src="https://github.com/BlackDark0/Assets/blob/main/gifs/cool.gif" width="30"/> </div>
 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=520&lines=Dev+%C2%B7+Eth+Hacker+%C2%B7+Problem+Solver;Code%2C+break%2C+train%2C+repeat;Shipping+pixels+since+20XX;Writes+code%2C+not+excuses;Security+first.+Coffee+second;I+fix+what+others+push" alt="Typing SVG" /></a>
