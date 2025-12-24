@@ -401,11 +401,11 @@
 <p align="center">
   &emsp;
   <a href="https://github.com/BlackDark0/BD_Propfix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackDark0&repo=BD_Propfix&theme=tokyonight" alt="BD_Propfix"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackDark0&repo=Anti-Bunny-Hop&theme=tokyonight" alt="BD_Propfix"/>
   </a>
   &emsp;
   <a href="https://github.com/BlackDark0/Voice-reset">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackDark0&repo=Voice-reset&theme=tokyonight" alt="Voice-reset"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackDark0&repo=Anti-Bunny-Hop&theme=tokyonight" alt="Voice-reset"/>
   </a>
 </p>
 
@@ -416,14 +416,14 @@
   </a>
   &emsp;
   <a href="https://github.com/BlackDark0/Qb-communityservice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackDark0&repo=Qb-communityservice&theme=tokyonight" alt="Qb-communityservice"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackDark0&repo=Anti-Bunny-Hop&theme=tokyonight" alt="Qb-communityservice"/>
   </a>
 </p>
 
 <p align="center">
   &emsp;
   <a href="https://github.com/BlackDark0/BlackDark0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackDark0&repo=BlackDark0&theme=tokyonight" alt="BlackDark0"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackDark0&repo=Anti-Bunny-Hop&theme=tokyonight" alt="BlackDark0"/>
   </a>
 </p>
 </div>
